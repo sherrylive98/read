@@ -39,6 +39,10 @@ Approach:
 
 
    This image will be used to create a total virtual reality around user where user can place his furniture
+   
+   Server Side:
+      We will have a web hosted server(SQL) that will contain various models and the algorithm of Machine Learning developed by using Open CV and trained CNN Models.
+      The scripting language C# wich is compatible for the development of Unity based applications will act as an interface .We will use the Networking libraries and the System libraries to accomplish this.
 
 
 
