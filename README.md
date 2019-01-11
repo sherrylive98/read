@@ -1,9 +1,21 @@
-Problem Descrption: 
+Problem Statement: 
 
+3D AR(Agumented Reality) buying experience
+
+Problem Descrption: 
 
 In this project we are planning to create a buying experience for user using unity.
 What we plan to do is create a augemented GUI for placing of furniture.
 the user will select the typw of furnitue to place and select it from navigation panel and a augmented furniture will be placed at the location.
+
+Introduction:
+
+While buying furniture online customers does not have a way to visualize how the product will look within content of their home. When plan to create a buying experience for
+user using Unity which provides users a way to visualize and experience the look and feel of products. Our application will allow user to choose from a variety of products to view in their home/office setting using AR(Augmented Reality) and VR(Virtual Reality) services provided by us in a simple,elegant graphical user interface, all within their mobile phone.
+
+User can select the type, model, design and colour of the furniture from navigation panel and that furniture will be augmented at the location of the choice. Ability to add/remove multiple objects and change colour and design even after placing them will give user a fully customizable AR buying experience. 
+
+Our VR facility will improve and allow user to get an complete immersive experience. User can capture picture of the blueprint of their house and we will create VR environment according to the given location. Then user can use all other features as our AR buying system and can get an actual immersive buying experience in their phone.
 
 
 Approach:
